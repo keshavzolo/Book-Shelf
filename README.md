@@ -1,16 +1,19 @@
-# dice_roller
+# 📚 Book Shelf 📱
 
-A new Flutter project.
+A modern Flutter app to browse, search, and view book covers with a smooth and elegant UI. This project is designed as a showcase for building UI-based Flutter apps using API integration.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 📖 Browse a list of books with cover images  
+- 🔍 Search books easily by title  
+- 🖼️ Responsive layout using ListView & GridView  
+- 🌐 API Integration for dynamic book data  
+- 🧱 Clean card-based UI layout  
+- 💡 Easy to customize and extend
 
-A few resources to get you started if this is your first Flutter project:
+- ## 🖼️ Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- <img width="407" height="807" alt="image" src="https://github.com/user-attachments/assets/013765e2-9693-4fe0-bcde-79c1744274f6" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="372" height="779" alt="image" src="https://github.com/user-attachments/assets/b0228724-a1a0-4c37-a35e-262026fda20f" />
+
